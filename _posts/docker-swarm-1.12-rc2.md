@@ -1,9 +1,9 @@
-+++
+---
 date = "2016-06-25T12:00:00-04:00"
 draft = false
 title = "Docker swarm mode using Docker 1.12-rc2"
 
-+++
+---
 
 <!DOCTYPE html>
 <html lang="en-us">
