@@ -1,19 +1,94 @@
-permalink: /:title/
-baseurl:
-markdown: kramdown
-compress_html:
-  clippings: all
-  endings: all
-kramdown:
-    enable_coderay: false
-    coderay:
-    coderay_wrap:              div
-    coderay_line_numbers:      inline
-    coderay_line_number_start: 1
-    coderay_tab_width:         4
-    coderay_bold_every:        10
-    coderay_css:               style
-gems:
-  - jemoji
+# Welcome to Jekyll!
 
-theme: minima
+# Website settings
+title: "Jonathan's Site"
+description: "Jonathan's Site"
+keywords: ""
+baseurl: "/"
+url: "http://www.jonathanclee.com"
+# url: "http://127.0.0.1:4000"
+
+# author
+author:
+  name: 'beenanner'
+  first_name: 'Jonathan'
+  last_name: 'Lee'
+  facebook_username: 'beenanner'
+  github_username: 'beenanner'
+  twitter_username: 'beenanner'
+  head_img: 'static/img/landing/beenanner.jpg'
+  desc: 'My bio goes here'
+
+# sections
+sections:
+  - id: 'about-me'
+    i18n: 'nav.about_me'
+    name: 'About'
+    tpl: 'about.html'
+    css: ''
+
+  - id: 'career'
+    i18n: 'nav.career'
+    name: 'Career'
+    tpl: 'career.html'
+    css: 'timeline'
+
+  - id: 'skills'
+    i18n: 'nav.skills'
+    name: 'Skills'
+    tpl: 'skills.html'
+    css: 'team'
+
+  - id: 'blog'
+    i18n: 'nav.blog'
+    name: 'Blog'
+    tpl: 'blog.html'
+    css: 'testimonials navy-section'
+
+  - id: 'links'
+    i18n: 'nav.link'
+    name: 'Links'
+    tpl: 'links.html'
+    css: 'contact'
+
+# localization
+languages:
+  - locale: 'en'
+    flag: 'static/img/flags/United-States.png'
+
+# blog img path
+img_path: 'http://www.jonathanclee.com/static/img/blog'
+
+# donate
+donate:
+
+# comment
+disqus:
+  name: beenanner
+  public_key: 
+
+# share
+bshare:
+#  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
+
+# baidu analytics
+ba:
+  # uuid: 317acca9ef9255b934e46371e471431d
+
+# google analytics
+ga:
+#  id: UA-73784599-1
+
+# growingIO
+gio:
+#  id: a49d4901c7853da9
+
+# Build settings
+encoding: "utf-8"
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

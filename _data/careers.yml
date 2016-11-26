@@ -1,0 +1,29 @@
+- name:
+    detail: CBS Interactive
+  desc:
+    detail: Currently working on and maintaining architecture for CNet, ZDNet, and TechRepublic.
+  date:
+    detail: July. 2009
+  job:
+    detail: Lead Software Engineer
+  icon: fa-plus-square
+
+- name:
+    detail: CurrentMarketing
+  desc:
+    detail: Built and maintained serveral sites and custom CMS systems for various clients.
+  date:
+    detail: July. 2007
+  job:
+    detail: Full Stack Developer
+  icon: fa-cloud
+
+- name:
+    detail: Graduation
+  desc:
+    detail:
+  date:
+    detail: Jul. 2007
+  job:
+    detail: Student
+  icon: fa-book
