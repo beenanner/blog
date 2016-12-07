@@ -1,7 +1,7 @@
 ---
 layout: post
 title = "Docker swarm mode using Docker 1.12-rc2"
-date = "2016-06-25T12:00:00-04:00"
+date = 2016-06-25
 desc: "Docker 1.12-rc"
 keywords: "Docker"
 categories: [Docker]
