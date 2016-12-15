@@ -1,4 +1,14 @@
 - name:
+    detail: Sitespeed.io
+  desc:
+    detail: Joined the open source team to work on 4.0.
+  date:
+    detail: November 2015
+  job:
+    detail: Master of Nothing
+  icon: fa-diamond
+
+- name:
     detail: CBS Interactive
   desc:
     detail: Currently working on and maintaining architecture for CNet, ZDNet, and TechRepublic.
@@ -6,7 +16,7 @@
     detail: July. 2009
   job:
     detail: Lead Software Engineer
-  icon: fa-plus-square
+  icon: fa-anchor
 
 - name:
     detail: CurrentMarketing
@@ -21,9 +31,9 @@
 - name:
     detail: Graduation
   desc:
-    detail:
+    detail: Bachelors of Computer Science from Indiana University at Southeast
   date:
     detail: Jul. 2007
   job:
     detail: Student
-  icon: fa-book
+  icon: fa-graduation-cap

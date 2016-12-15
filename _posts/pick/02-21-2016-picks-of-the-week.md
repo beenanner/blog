@@ -1,8 +1,12 @@
 ---
-date = "2016-02-21T23:26:21-04:00"
-description = ""
-title = "Picks of the Week (02/21/2016)"
-
+layout: post
+title: "Picks of the Week (2/21/2016)"
+date: 2016-02-21
+desc: "Weekly Picks"
+keywords: ""
+categories: [Picks]
+tags: [Picks]
+icon: fa-code
 ---
 
 <h3 id="tools:ed9eefdea82f1ffdba33c9a3e0af6acb">Tools</h3>

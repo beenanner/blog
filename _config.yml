@@ -17,7 +17,7 @@ author:
   github_username: 'beenanner'
   twitter_username: 'beenanner'
   head_img: 'static/img/landing/beenanner.jpg'
-  desc: 'My bio goes here'
+  desc: 'I work full time at CBS Interactive on a variety of their sites. My area of focus for work is around performance, workflow, and deployment strategy. When I’m not working I like to tinker with IoT. Outside of tech I enjoy lifting weights and traveling.'
 
 # sections
 sections:
@@ -44,6 +44,12 @@ sections:
     name: 'Blog'
     tpl: 'blog.html'
     css: 'testimonials navy-section'
+  
+  - id: 'projects'
+    i18n: 'nave.projects'
+    name: 'Projects'
+    tpl: 'projects.html'
+    css: 'projects'
 
   - id: 'links'
     i18n: 'nav.link'

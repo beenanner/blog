@@ -1,11 +1,11 @@
 - name: Blog
   href: '/blog/'
 
-- name: Picks
+- name: Weekly Picks
   href: '/picks/'
 
 - name: Docker
   href: '/docker/'
 
-- name: Fun
+- name: Just For Fun
   href: '/just-for-fun/'
