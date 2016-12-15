@@ -1,10 +1,15 @@
 ---
-date = "2016-01-08T23:25:54-04:00"
-description = ""
-title = "Picks of the Week (01/08/2016)"
+layout: post
+title: "Picks of the Week (01/08/2016)"
+date: 2016-01-08
+desc: "Weekly Picks"
+keywords: ""
+categories: [Picks]
+tags: [Picks]
+icon: fa-code
 ---
 
-<h3 id="tools:0ee0c4263310d8f821106d4ceca0aced">Tools</h3>
+<h3>Tools</h3>
 
 <ul>
 <li><a href="http://csstriggers.com/">CSS Triggers</a></li>
