@@ -5,8 +5,8 @@ title: "Jonathan's Site"
 description: "Jonathan's Site"
 keywords: ""
 baseurl: "/"
-url: "http://www.jonathanclee.com"
-# url: "http://127.0.0.1:4000"
+url: "https://www.jonathanclee.com"
+# url: "https://127.0.0.1:4000"
 
 # author
 author:
@@ -63,7 +63,7 @@ languages:
     flag: 'static/img/flags/United-States.png'
 
 # blog img path
-img_path: 'http://www.jonathanclee.com/static/img/blog'
+img_path: 'https://www.jonathanclee.com/static/img/blog'
 
 # donate
 donate:
