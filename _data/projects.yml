@@ -2,6 +2,7 @@
   i18n: 'browsertime'
   url: '/sitespeedio/browsertime'
   img: 'static/img/projects/browsertime.png'
+  imgalt: 'Browsertime Image'
   desc: 'Drives modern browsers with selenium and generates HAR files, videos, etc.'
 
 
@@ -9,16 +10,19 @@
   i18n: 'pagexray'
   url: '/sitespeedio/pagexray'
   img: 'static/img/projects/pagexray.png'
+  imgalt: 'PageXray Image'
   desc: 'PageXray converts a HAR file to a JSON format that is easier to read and gives some high level statistics.'
 
 - name: 'The Coach'
   i18n: 'coach'
   url: '/sitespeedio/coach'
   img: 'static/img/projects/coach.png'
+  imgalt: 'The Coach Image'
   desc: 'The Coach will give advice of how your page could be better and faster. This is the modern day Yslow!'
 
 - name: 'Sitespeed.io'
   i18n: 'sitespeedio'
   url: '/sitespeedio/sitespeed.io'
   img: 'static/img/projects/sitespeedio.png'
+  imgalt: 'Sitespeed.io Image'
   desc: 'Sitespeed.io is a project that leverages all 3 of the previous projects as well as it has a plugin system to add your own. Generates HTML reports and can send stats to a TSDB.'
