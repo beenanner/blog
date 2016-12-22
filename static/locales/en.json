@@ -19,7 +19,8 @@
     "my_skills": "My Skills"
   },
   "projects":{
-    "my_projects": "My Projects"
+    "my_projects": "Open Source Projects",
+    "browsertime": "Browsertime"
   },
   "career":{
     "my_career": "My Career"
