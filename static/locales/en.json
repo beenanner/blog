@@ -20,7 +20,10 @@
   },
   "projects":{
     "my_projects": "Open Source Projects",
-    "browsertime": "Browsertime"
+    "browsertime": "Browsertime uses Selenium NodeJS to drive the browser. It starts the browser, load a URL, executes configurable Javascripts to collect metrics, collect a HAR file.",
+    "pagexray": "PageXray converts a HAR file to a JSON format that is easier to read and gives some high level statistics.",
+    "coach": "The Coach will give advice of how your page could be better and faster. This is the modern day Yslow!",
+    "sitespeedio": "Sitespeed.io is a project that leverages all 3 of the previous projects as well as it has a plugin system to add your own. Generates HTML reports and can send stats to a TSDB."
   },
   "career":{
     "my_career": "My Career"

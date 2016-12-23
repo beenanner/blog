@@ -3,7 +3,7 @@
   url: '/sitespeedio/browsertime'
   img: 'static/img/projects/browsertime.png'
   imgalt: 'Browsertime Image'
-  desc: 'Drives modern browsers with selenium and generates HAR files, videos, etc.'
+  desc: 'Browsertime uses Selenium NodeJS to drive the browser. It starts the browser, load a URL, executes configurable Javascripts to collect metrics, collect a HAR file.'
 
 
 - name: 'PageXray'
